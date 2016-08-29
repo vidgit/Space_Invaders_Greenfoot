@@ -1,8 +1,12 @@
-# Space_Invaders_Greenfoot
+# Space Invaders Greenfoot
 
 This is an implementation of a game like the 8 bit classic Galaga and Galaxian.
 
 Implemented in Java using the greenfoot framework.
+
+
+
+
 ---------------------------------------------------------------------------------------------------------
 Controls:
 Move:
@@ -18,3 +22,8 @@ Nuke: Z
 
 Others:
 Pause/Start : Enter
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
