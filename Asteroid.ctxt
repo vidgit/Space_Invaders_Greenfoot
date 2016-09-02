@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Asteroid
+comment0.text=\r\n\ Generates\ asteroids\r\n\ asteroids\ are\ obstacles\ which\ will\ not\ attack\ the\ player\ instead\ they\ will\ create\ path\ hinderence\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Asteroid()
+comment2.params=
+comment2.target=int\ gethit()
+comment3.params=d
+comment3.target=void\ sethit(int)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ move()
+comment6.params=
+comment6.target=void\ checkWalls()
+numComments=7

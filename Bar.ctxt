@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bar\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=width\ height\ color
+comment1.target=Bar(int,\ int,\ java.awt.Color)
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=x
+comment3.target=void\ setValue(int)
+comment4.params=x
+comment4.target=void\ update(int)
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ Bar\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment5.params=l
+comment5.target=void\ updateLocation(int)
+numComments=6
